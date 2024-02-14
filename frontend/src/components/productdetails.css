@@ -1,0 +1,15 @@
+.images{
+    height: 250px;
+    width: 350px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.prevdesign{
+    align-items: center;
+}
+.medicinebox{
+    box-shadow: 5px 10px 10px #808080;
+    background-color: #ffffff;
+}

@@ -1,0 +1,23 @@
+.footer{
+    background-color: rgb(19, 19, 42);
+    color: white;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.copy{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.column{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 5px;
+}

@@ -1,0 +1,18 @@
+.backcol{
+    background-color:#86B6F6;
+}
+.faccol{
+    background-color: #85EF47;
+}
+.workcol{
+    background-color: #F037A5;
+}
+.achkcol{
+    background-color: #FFC436;
+}
+.slider{
+    border: 10px solid transparent;
+    border-radius: 10px;
+    border-image: linear-gradient(45deg,#F4D160,#df2f55);
+    border-image-slice: 1;
+}

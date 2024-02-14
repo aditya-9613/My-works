@@ -1,0 +1,37 @@
+.heading{
+    text-align: center;
+    font-family: cursive;
+    font-size: xxx-large;
+    margin-bottom: 10vh;
+}
+.login_form{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10vh;
+}
+.input_fields{
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+}
+.login_password{
+    height: 45px;
+}
+.submit_button{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    margin-top: 5px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    font-family: math;
+    margin-top: 3.5vh;
+    margin-bottom: 3.5vh;
+}
+.box{
+    margin-top: 2.5vh;
+}
